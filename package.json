@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/disko23/toxicNico_bot/issues"
   },
-  "homepage": "https://github.com/disko23/toxicNico_bot#readme"
+  "homepage": "https://github.com/disko23/toxicNico_bot#readme",
+  "dependencies": {
+    "telegraf": "^4.8.2"
+  }
 }
