@@ -1,3 +1,4 @@
 const telegraf = require('telegraf');
+require('dotenv').config();
 
-console.log(telegraf);
+console.log(process.env.KEY);
